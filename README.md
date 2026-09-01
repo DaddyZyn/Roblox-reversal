@@ -13,7 +13,6 @@ f5a60436d48947d3 (0.736.0.7361348). dumped from live memory after hyperion unpac
 - `include/funcs.h` — engine function map
 - `include/enc.h` — obfuscated field wrappers (VMValue0-4)
 - `include/byfron.h` — dll layout, mutation vms, chacha, veh, heartbeat
-- `include/integrity.h` — hyperion check offsets + patch bytes
 - `api_map.txt` — 2252 reflected methods across 347 classes
 
 ## quick numbers
