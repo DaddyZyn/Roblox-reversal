@@ -2,7 +2,7 @@
 #include <cstdint>
 #include <vector>
 
-// dll rva, hyperion check entrypoints inside the mutation vms
+// These are probs incorrect havent tested
 
 namespace checks
 {
